@@ -4,7 +4,7 @@
 
 
 ## Sobre o projeto
-
+Projeto do final do Módulo 4  do curso da Resilia Educação. Nosso grupo foi desafiado a criar uma API nos  padrões  REST!
 
 ## Como iniciar o projeto:
 
