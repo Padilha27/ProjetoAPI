@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "database_development",
+    "password": "Bmars369@",
+    "database": "hamburgueria_resilia",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
