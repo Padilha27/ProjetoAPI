@@ -1,6 +1,6 @@
 
 
-## Resilias Burguer
+## Resilia's Burguer
 
 
 ## Sobre o projeto
