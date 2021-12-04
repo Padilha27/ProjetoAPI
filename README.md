@@ -1,14 +1,15 @@
 
-## Resilia's Burguer
+# Resilia's Burguer
 
-# Sobre o projeto
+### Sobre o projeto
 
 Esse é um projeto do final do Módulo 4 do Bootcamp de Desenvolvimento Web Full Stack da Resilia Educação, onde foi proposto a criação de uma API nos padões REST.
 
 Escolhemos o tema de hamburgueria, e nesta aplicação será possível inserir, exibir, alterar e deletar dados do BD.
 
 <br>
-## 🚀 Começando
+
+### 📋 Pré-requisitos para instalação 🔧
 
 Essas instruções permitirão que você consiga ter esse projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 <br>
@@ -43,6 +44,8 @@ Nosso projeto tem as seguintes rotas:
 * [Sequelize](https://sequelize.org/)
 * [Mysql2](https://www.mysql.com/)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
+* [Postman](https://www.postman.com/)
+* [CRUD](https://developer.mozilla.org/pt-BR/docs/Glossary/CRUD)
 
 <br>
 
