@@ -14,8 +14,6 @@ Escolhemos o tema de hamburgueria, e nesta aplicação será possível inserir, 
 Essas instruções permitirão que você consiga ter esse projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 <br>
 
-### 📋 Pré-requisitos para instalação 🔧
-
 * Instale NodeJS em seu computador.
 * Baixe os aquivos do repositório ProjetoAPI aqui no GitHub.
 * Entre na pasta do projeto e abra o terminal e utilize o comando: npm install
@@ -25,9 +23,9 @@ Essas instruções permitirão que você consiga ter esse projeto em operação 
 ### Rotas da Aplicação 🔧
 Nosso projeto tem as seguintes rotas:
 
-/cliente
-/funcionario
-/fornecedor
+/cliente<br>
+/funcionario<br>
+/fornecedor<br>
 
 
 ## 📦 Desenvolvimento
