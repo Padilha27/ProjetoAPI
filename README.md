@@ -26,6 +26,7 @@ Nosso projeto tem as seguintes rotas:
 /cliente<br>
 /funcionario<br>
 /fornecedor<br>
+/produto<br>
 
 
 ## 📦 Desenvolvimento
