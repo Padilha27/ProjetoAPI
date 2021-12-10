@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": "a4a4a4a4",
-    "database": "fornecedor",
-    "host": "127.0.0.1",
+    "password": "Padilha123@1",
+    "database": "hamburgueria_resilia",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
